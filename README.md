@@ -25,4 +25,5 @@ Hosting the PDF.js viewer on a cloud server involves a few steps. Here's a gener
 ## PS
 Please note that these are general steps and might vary depending on the cloud service provider and the web server you are using. You should refer to the specific documentation of your cloud service provider and web server for detailed instructions.
 
+My only concern is of security by using iframe tag.
 
