@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page1 should render the element 1`] = `
+.c0 {
+  padding: 10px;
+  border: 1px solid #999;
+  margin: 10px;
+}
+
+<div
+  class="c0"
+>
+  <p>
+    Hello React Page 1!
+  </p>
+  <zui-button>
+    Click me!
+  </zui-button>
+  <p
+    class="my-pilet-error"
+  >
+    This in an error styled by Pilet global CSS in src/index.css.
+  </p>
+</div>
+`;

@@ -1,0 +1,8 @@
+node_modules
+dist
+jest*.js
+jest*.ts
+webpack.config.js
+*.scss
+*.css
+*.snap

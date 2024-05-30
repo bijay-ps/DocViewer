@@ -1,0 +1,17 @@
+{
+  "customSyntax": "@stylelint/postcss-css-in-js",
+  "extends": [
+    "stylelint-config-prettier",
+    "stylelint-config-standard",
+    "stylelint-config-recommended",
+    "stylelint-config-idiomatic-order",
+    "stylelint-config-styled-components"
+  ],
+  "plugins": ["stylelint-order", "stylelint-no-unsupported-browser-features"],
+  "rules": {
+    "string-quotes": null,
+    "no-empty-first-line": null,
+    "custom-property-empty-line-before": null,
+    "plugin/no-unsupported-browser-features": true
+  }
+}
